@@ -15,9 +15,9 @@ class Game
     @players << @player2
   end
 
-  def has_player1?
-    players.first == @player1
-  end
+#  def has_player1?
+    #players.first == @player1
+  #end
 
 	BEATS = {rock: :scissors, scissors: :paper, paper: :rock}
 

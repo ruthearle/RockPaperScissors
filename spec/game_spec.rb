@@ -1,9 +1,9 @@
 require 'game'
 
 describe Game do
-	let(:player1) {double :player1, name: "Stephen"}
-	let(:player2) {double :player1, name: "Enrique"}
-	let(:game)    {Game.new}
+	let(:player1)           { double :player1, name: "Stephen" }
+	let(:player2)           { double :player1, name: "Enrique" }
+	let(:game)              { Game.new }
 	let(:game_with_players) { Game.new }
 
 	before(:each) do
@@ -65,6 +65,6 @@ describe Game do
 			expect(game_with_players.play).to eq ["Enrique's scissors beats Stephen's paper!", "Stephen's rock beats Enrique's scissors!"]
 		end
 	end
-	
+
 
 end
