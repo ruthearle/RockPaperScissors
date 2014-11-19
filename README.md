@@ -4,7 +4,7 @@
 | ------------------------------------------------ | ------ |
 
 # Rock, Paper, Scissors - Ruby
-(New clone of [rps](https://github.com/ruthearle/rps) repo. Find all original commits [here](https://github.com/ruthearle/rps)) 
+(This was a re-clone of my [rps](https://github.com/ruthearle/rps) repo. Find all original commits [here](https://github.com/ruthearle/rps)) 
 
 ###Weekend Challenge
 
