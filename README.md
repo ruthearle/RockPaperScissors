@@ -5,7 +5,7 @@
 
 # Rock, Paper, Scissors - Ruby
 
-###The Challenge
+###Weekend Challenge
 
 Create a game of rock, paper, scissors that can be played in the browser using **Sinatra**.
 
